@@ -6,6 +6,8 @@ Explore, analyze, and compare body measurement data (such as weight, height, and
 
 
 Works and Results:
+
+
 Confirmed that male participants, on average, weigh more than female participants in this dataset.
 Visualized the spread and central tendency of male and female weights using histograms and box plots.
 Demonstrated how BMI relates strongly to waist and hip circumferences in females.
