@@ -1,7 +1,7 @@
 # Health-Data-Analysis-using-EDA
-Objective:
+#Objective:
 Explore, analyze, and compare body measurement data (such as weight, height, and circumferences) and derived health indicators (like BMI and waist-to-hip/height ratios) between adult male and female participants from the NHANES dataset.
-Works and Results:
+#Works and Results:
 Confirmed that male participants, on average, weigh more than female participants in this dataset.
 Visualized the spread and central tendency of male and female weights using histograms and box plots:
 Demonstrated how BMI relates strongly to waist and hip circumferences in females.
